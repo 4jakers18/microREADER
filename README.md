@@ -10,4 +10,12 @@ microREADER is a prototype for a small handheld e-reader based on an ESP32-PICO-
 - Built-in rechargeable battery
 - Simple user interface for easy navigation
 
+## To-do
+
+- Establish .epub/.txt reading from SD card module
+- Configure display and display updating
+- Determine whether Waveshare's text display code is apt, or if new code should be written (tesing new fonts aswell)
+- Implement battery/charging circuit
+- Build circuit and determine inputs
+- Design and manufacure enclosure
 
